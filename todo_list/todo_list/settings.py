@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ur6stysrou@_pq$l+-%4h_%vbphi%910*yo1)ze9-^srh%-1*m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = FALSE
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['todo-list-tau-lake.vercel.app']
 
 
 # Application definition
